@@ -1,4 +1,4 @@
-# 🧪 Pantheon Evaluation - README 
+# 🧪 Pantheon Evaluation
 
 ## ⚙️ System Setup
 
