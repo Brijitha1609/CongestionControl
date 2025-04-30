@@ -1,4 +1,4 @@
-# 🧪 Pantheon Evaluation - README (Terminal Style)
+# 🧪 Pantheon Evaluation - README 
 
 ## ⚙️ System Setup
 
